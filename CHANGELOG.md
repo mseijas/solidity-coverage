@@ -1,5 +1,11 @@
 # Changelog
 
+0.5.9 / 2018-08-27
+=================
+  * Upgrade solc to 0.4.24
+  * Upgrade web3 to 0.20.6
+  * Upgrade truffle to 4.1.14
+
 0.5.8 / 2018-08-26
 =================
   * Fix instrumentation algo so SC doesn't instrument entire codebase twice (contribution @sohkai)
